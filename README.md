@@ -7,3 +7,7 @@
 Gleam is a programming language for building type-safe systems that scale.
 
 Gleam compiles to Erlang or JavaScript.
+
+# Basics
+
+- Hello world
