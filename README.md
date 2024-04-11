@@ -14,3 +14,4 @@ Gleam compiles to Erlang or JavaScript.
 - Modules
 - Unqualified imports
 - Type checking
+- Ints
