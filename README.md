@@ -15,3 +15,4 @@ Gleam compiles to Erlang or JavaScript.
 - Unqualified imports
 - Type checking
 - Ints
+- Floats
