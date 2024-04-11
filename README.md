@@ -11,3 +11,6 @@ Gleam compiles to Erlang or JavaScript.
 # Basics
 
 - Hello world
+- Modules
+- Unqualified imports
+- Type checking
