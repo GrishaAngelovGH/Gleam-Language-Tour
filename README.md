@@ -16,3 +16,4 @@ Gleam compiles to Erlang or JavaScript.
 - Type checking
 - Ints
 - Floats
+- Number formats
