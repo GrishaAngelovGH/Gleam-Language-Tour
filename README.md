@@ -17,3 +17,4 @@ Gleam compiles to Erlang or JavaScript.
 - Ints
 - Floats
 - Number formats
+- Equality
