@@ -18,3 +18,4 @@ Gleam compiles to Erlang or JavaScript.
 - Floats
 - Number formats
 - Equality
+- Strings
