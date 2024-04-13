@@ -20,3 +20,4 @@ Gleam compiles to Erlang or JavaScript.
 - Equality
 - Strings
 - Bools
+- Assignments
