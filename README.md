@@ -21,3 +21,4 @@ Gleam compiles to Erlang or JavaScript.
 - Strings
 - Bools
 - Assignments
+- Discard patterns
