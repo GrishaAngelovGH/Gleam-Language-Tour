@@ -27,3 +27,4 @@ Gleam compiles to Erlang or JavaScript.
 - Type aliases
 - Blocks
 - Lists
+- Constants
