@@ -32,3 +32,4 @@ Gleam compiles to Erlang or JavaScript.
 # Functions
 
 - Functions
+- Higher order functions
