@@ -36,3 +36,4 @@ Gleam compiles to Erlang or JavaScript.
 - Anonymous functions
 - Function captures
 - Generic functions
+- Pipelines
