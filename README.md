@@ -39,3 +39,4 @@ Gleam compiles to Erlang or JavaScript.
 - Pipelines
 - Labelled arguments
 - Documentation comments
+- Deprecations
