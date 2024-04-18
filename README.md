@@ -38,3 +38,4 @@ Gleam compiles to Erlang or JavaScript.
 - Generic functions
 - Pipelines
 - Labelled arguments
+- Documentation comments
