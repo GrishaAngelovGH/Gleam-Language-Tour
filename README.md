@@ -45,3 +45,4 @@ Gleam compiles to Erlang or JavaScript.
 
 - Case expressions
 - Variable patterns
+- String patterns
