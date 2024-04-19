@@ -40,3 +40,7 @@ Gleam compiles to Erlang or JavaScript.
 - Labelled arguments
 - Documentation comments
 - Deprecations
+
+# Flow control
+
+- Case expressions
