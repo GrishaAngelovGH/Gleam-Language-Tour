@@ -44,3 +44,4 @@ Gleam compiles to Erlang or JavaScript.
 # Flow control
 
 - Case expressions
+- Variable patterns
