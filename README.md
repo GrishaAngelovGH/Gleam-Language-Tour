@@ -47,3 +47,4 @@ Gleam compiles to Erlang or JavaScript.
 - Variable patterns
 - String patterns
 - List patterns
+- Recursion
