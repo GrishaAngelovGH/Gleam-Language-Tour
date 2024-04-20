@@ -48,3 +48,4 @@ Gleam compiles to Erlang or JavaScript.
 - String patterns
 - List patterns
 - Recursion
+- Tail calls
