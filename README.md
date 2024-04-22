@@ -52,3 +52,4 @@ Gleam compiles to Erlang or JavaScript.
 - List recursion
 - Multiple subjects
 - Alternative patterns
+- Pattern aliases
