@@ -54,3 +54,7 @@ Gleam compiles to Erlang or JavaScript.
 - Alternative patterns
 - Pattern aliases
 - Guards
+
+# Data types
+
+- Tuples
