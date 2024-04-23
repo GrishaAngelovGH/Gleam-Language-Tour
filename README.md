@@ -58,3 +58,4 @@ Gleam compiles to Erlang or JavaScript.
 # Data types
 
 - Tuples
+- Custom types
