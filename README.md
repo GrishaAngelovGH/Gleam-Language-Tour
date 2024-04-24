@@ -62,3 +62,4 @@ Gleam compiles to Erlang or JavaScript.
 - Records
 - Record accessors
 - Record updates
+- Generic custom types
