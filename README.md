@@ -60,3 +60,4 @@ Gleam compiles to Erlang or JavaScript.
 - Tuples
 - Custom types
 - Records
+- Record accessors
