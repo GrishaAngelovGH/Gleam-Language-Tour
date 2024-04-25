@@ -65,3 +65,4 @@ Gleam compiles to Erlang or JavaScript.
 - Generic custom types
 - Nil
 - Results
+- Bit arrays
