@@ -70,3 +70,4 @@ Gleam compiles to Erlang or JavaScript.
 # Standard library
 
 - Standard library package
+- List module
