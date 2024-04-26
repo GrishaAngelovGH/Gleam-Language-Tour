@@ -66,3 +66,7 @@ Gleam compiles to Erlang or JavaScript.
 - Nil
 - Results
 - Bit arrays
+
+# Standard library
+
+- Standard library package
