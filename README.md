@@ -74,3 +74,7 @@ Gleam compiles to Erlang or JavaScript.
 - Result module
 - Dict module
 - Option module
+
+# Advanced features
+
+- Opaque types
