@@ -78,3 +78,4 @@ Gleam compiles to Erlang or JavaScript.
 # Advanced features
 
 - Opaque types
+- Use
