@@ -80,3 +80,4 @@ Gleam compiles to Erlang or JavaScript.
 - Opaque types
 - Use
 - Use sugar
+- Todo
