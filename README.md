@@ -81,3 +81,4 @@ Gleam compiles to Erlang or JavaScript.
 - Use
 - Use sugar
 - Todo
+- Panic
