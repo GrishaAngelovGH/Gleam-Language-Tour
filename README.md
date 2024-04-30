@@ -83,3 +83,4 @@ Gleam compiles to Erlang or JavaScript.
 - Todo
 - Panic
 - Let assert
+- Externals
