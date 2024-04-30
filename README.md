@@ -84,3 +84,4 @@ Gleam compiles to Erlang or JavaScript.
 - Panic
 - Let assert
 - Externals
+- Multi target externals
