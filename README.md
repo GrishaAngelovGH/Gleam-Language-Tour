@@ -85,3 +85,4 @@ Gleam compiles to Erlang or JavaScript.
 - Let assert
 - Externals
 - Multi target externals
+- External gleam fallbacks
